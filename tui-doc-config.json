@@ -2,7 +2,7 @@
   "filePath": "src/js/**",
   "fileLink": {
     "repository": "https://github.com/nhnent/tui.grid",
-    "ref": "feature/add-pages"
+    "ref": "v3.0.0"
   },
   "header": {
     "logo": "https://uicdn.toast.com/toastui/img/tui-logo.png",

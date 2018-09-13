@@ -3984,8 +3984,8 @@ csso@~2.3.1:
     source-map "^0.5.3"
 
 csstype@^2.2.0:
-  version "2.5.6"
-  resolved "https://registry.yarnpkg.com/csstype/-/csstype-2.5.6.tgz#2ae1db2319642d8b80a668d2d025c6196071e788"
+  version "2.5.7"
+  resolved "https://registry.yarnpkg.com/csstype/-/csstype-2.5.7.tgz#bf9235d5872141eccfb2d16d82993c6b149179ff"
 
 csurf@~1.8.3:
   version "1.8.3"
@@ -5701,7 +5701,7 @@ gatsby-plugin-page-creator@^2.0.0-rc.5:
     parse-filepath "^1.0.1"
     slash "^1.0.0"
 
-gatsby-plugin-sass@^2.0.0:
+gatsby-plugin-sass@^2.0.0-rc.2:
   version "2.0.0-rc.2"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-sass/-/gatsby-plugin-sass-2.0.0-rc.2.tgz#21478847d0060fb676fc707add21eb96948f24b6"
   dependencies:
@@ -12805,14 +12805,14 @@ tui-date-picker@^3.1.0:
 
 "tui-doc@git+https://github.nhnent.com/fe/tui.doc.git":
   version "1.0.0"
-  resolved "git+https://github.nhnent.com/fe/tui.doc.git#ff9934a50f9f0796a33a54a2bd125b2d176727fc"
+  resolved "git+https://github.nhnent.com/fe/tui.doc.git#60558a20b2b0b61fb03bdb0fe9de0a40d6b156ec"
   dependencies:
     cheerio "^1.0.0-rc.2"
     copy-dir "^0.4.0"
     documentation "^8.0.2"
     fs-extra "^7.0.0"
     gatsby "^2.0.0-rc.0"
-    gatsby-plugin-sass "^2.0.0"
+    gatsby-plugin-sass "^2.0.0-rc.2"
     gatsby-remark-prismjs "^2.0.5"
     gatsby-source-filesystem "^2.0.1-rc.1"
     gatsby-transformer-json "^2.1.1-rc.0"
